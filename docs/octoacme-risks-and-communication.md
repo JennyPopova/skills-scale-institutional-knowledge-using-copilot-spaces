@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Leverage the [Stakeholder Communication Tracker](stakeholder-communication-tracker.md) for templates and planning
 
 ## Communication Templates
 Weekly Status Template:
