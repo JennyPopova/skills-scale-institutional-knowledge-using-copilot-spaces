@@ -10,6 +10,7 @@ Quality assurance is embedded: unit/integration/end-to-end tests, CI pipelines f
 
 ## Documentation Links
 
+### Process Guides
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
@@ -17,4 +18,8 @@ Quality assurance is embedded: unit/integration/end-to-end tests, CI pipelines f
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles & Personas](octoacme-roles-and-personas.md)
+
+### Roles & Templates
+- [Roles & Personas](octoacme-roles-and-personas.md) — Comprehensive role definitions including Developers, Product Managers, Project Managers, Scrum Masters, Business Analysts, UX Designers, DevOps Engineers, Release Managers, and Support Leads
+- [Role-Responsibility Checklist](role-responsibility-checklist.md) — RACI matrix for all project phases to ensure clear accountability
+- [Stakeholder Communication Tracker](stakeholder-communication-tracker.md) — Templates and plans for effective stakeholder engagement

@@ -13,11 +13,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Project One-pager (Problem, Goal, Success Metrics) — drafted by Product Manager with Business Analyst input
+- Stakeholder list & communication plan — developed using the [Stakeholder Communication Tracker](stakeholder-communication-tracker.md)
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate) — reference [Role-Responsibility Checklist](role-responsibility-checklist.md) for role definitions
 
 ## Project One-pager Template
 - Project name:
